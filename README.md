@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction
+# House Price Prediction
 
 This project predicts house prices using a machine learning model.  
 It has:
